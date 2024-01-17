@@ -1,4 +1,4 @@
-# GDriveDL
+# googledrivedl
 
 Google Drive Download Script
 
@@ -10,6 +10,8 @@ Google Drive Download Script
 -   Works with large files
 -   Files / folders must have been shared via link
 
+## Installation
+``` pip install googledrivedl ```
 ## Usage
 
 ```bash
